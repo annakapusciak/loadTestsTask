@@ -27,6 +27,8 @@ Test is using few parameters which were predefined in [src/test/scala/simulation
 Source code can be found in [src/test/scala/simulations/LoadTestSimulation.scala](src/test/scala/simulations/LoadTestSimulation.scala)
 
 ## Test execution
+[maven](https://maven.apache.org/) needs to be installed on local machine.
+
  - To execute this test with default values please run maven command in terminal:
 ```
 mvn clean gatling:test
@@ -49,7 +51,7 @@ mvn clean gatling:test -DbaseUrl=https://computer-database.gatling.io -Dduration
 ```
 
 ## Test results / Report
-
+After test run Gatling generates very detailed report which will be automatically created in `<your_local_folder_with_dowlnloaded_project>/target/gatling` folder.
 
 - Sample Gating report
   
