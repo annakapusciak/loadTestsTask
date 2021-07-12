@@ -1,10 +1,10 @@
 # Load tests sample task using Gatling
 
 ## How to start
-As a first step please checkout project from GitHub repository available [here]().
-To do that create some new folder on your local machine and depend on if you're using command console or not you can download project using this [link](zip link) or in command line paste:
+As a first step please checkout project from GitHub repository available [here](https://github.com/annakapusciak/loadTestsTask).
+To do that create some new folder on your local machine and depend on if you're using command console or not you can download project using this [link](https://github.com/annakapusciak/loadTestsTask/archive/refs/heads/main.zip) or in command line paste:
 ```
-git clone 
+git clone https://github.com/annakapusciak/loadTestsTask.git
 ```
 
 ## Technology
